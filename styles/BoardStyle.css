@@ -1,0 +1,10 @@
+.filas{
+    font-size: 36px;
+}
+body{
+    background-color: rgb(65, 11, 11);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    
+}
